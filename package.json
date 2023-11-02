@@ -1,7 +1,7 @@
 {
-  "name": "gallery-lightbox",
+  "name": "chetan-gallery-lightbox",
   "private": false,
-  "version": "0.0.5",
+  "version": "0.1.5",
   "type": "module",
   "main": "dist/index.umd.ts",
   "module": "dist/index.es.js",
@@ -46,5 +46,9 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
     "vite-plugin-dts": "^3.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chetandivekar/chetan-gallery-lightbox"
   }
 }
