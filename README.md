@@ -1,6 +1,6 @@
-# chetan-gallery-lightbox
+# cdx-gallery-lightbox
 
-"chetan-gallery-lightbox" is a lightweight and customizable gallery lightbox package for displaying images and media content in an elegant and user-friendly way. It's designed for easy integration into web applications and provides a responsive and immersive viewing experience.
+"cdx-gallery-lightbox" is a lightweight and customizable gallery lightbox package for displaying images and media content in an elegant and user-friendly way. It's designed for easy integration into web applications and provides a responsive and immersive viewing experience.
 
 ![Alt Text](./src/assets/img1.png)
 
@@ -16,12 +16,12 @@
 
 ## Installation
 
-You can install "chetan-gallery-lightbox" using npm or yarn:
+You can install "cdx-gallery-lightbox" using npm or yarn:
 
 ```bash
-npm install chetan-gallery-lightbox
+npm install cdx-gallery-lightbox
 # or
-yarn add chetan-gallery-lightbox
+yarn add cdx-gallery-lightbox
 ```
 
 ## Code:
@@ -29,7 +29,7 @@ yarn add chetan-gallery-lightbox
 ```bash
 
 import React from 'react'
-import {Gallery} from 'chetan-gallery-lightbox'
+import {Gallery} from 'cdx-gallery-lightbox'
 import Image1 from "../assets/image1.png"
 import Image2 from "../assets/image2.png"
 import Image3 from "../assets/image3.png"
